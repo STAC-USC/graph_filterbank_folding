@@ -1,5 +1,5 @@
 # graph_filterbank_folding
-Two channel filter banks on arbitrary graphs using the spectral folding property
+Two channel filter banks on arbitrary graphs using the spectral folding property.
 Code for the paper 
 "Two channel filter banks on arbitrary graphs with positive semi definite variation operators"
 preprint https://arxiv.org/abs/2203.02858
